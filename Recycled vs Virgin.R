@@ -139,3 +139,4 @@ boot_virgin <- bootstrap_rate(df_virgin)
 boot_recycled <- bootstrap_rate(df)
 boot_virgin
 boot_recycled
+
